@@ -3,20 +3,20 @@
 
   **维护者**: 酷安 [@那个谁520](http://www.coolapk.com/u/23966654)
 <p>
-  <a href="https://github.com/qq5460168/666">
-    <img src="https://img.shields.io/github/last-commit/qq5460168/666?style=flat-square" alt="last update" />
+  <a href="https://github.com/QSDR2s1d/ad_rules">
+    <img src="https://img.shields.io/github/last-commit/QSDR2s1d/ad_rules?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/qq5460168/666">
-    <img src="https://img.shields.io/github/forks/qq5460168/666?style=flat-square" alt="forks" />
+  <a href="https://github.com/QSDR2s1d/ad_rules">
+    <img src="https://img.shields.io/github/forks/QSDR2s1d/ad_rules?style=flat-square" alt="forks" />
   </a>
-  <a href="https://github.com/qq5460168/666">
-    <img src="https://img.shields.io/github/stars/qq5460168/666?style=flat-square" alt="stars" />
+  <a href="https://github.com/QSDR2s1d/ad_rules">
+    <img src="https://img.shields.io/github/stars/QSDR2s1d/ad_rules?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/qq5460168/666/issues/">
-    <img src="https://img.shields.io/github/issues/qq5460168/666?style=flat-square" alt="open issues" />
+  <a href="https://github.com/QSDR2s1d/ad_rules/issues/">
+    <img src="https://img.shields.io/github/issues/QSDR2s1d/ad_rules?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/qq5460168/666">
-    <img src="https://img.shields.io/github/license/qq5460168/666?style=flat-square" alt="license" />
+  <a href="https://github.com/QSDR2s1d/ad_rules">
+    <img src="https://img.shields.io/github/license/QSDR2s1d/ad_rules?style=flat-square" alt="license" />
   </a>
 </p>
 
@@ -56,17 +56,17 @@ AdClose规则数量: 289165
 
 | 类型             | 主要用途                       | 下载链接                                                                            |
 |------------------|------------------------------|-------------------------------------------------------------------------------------|
-| AdGuard通用黑名单       | 拦截大部分广告域名             | [rules.txt](https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/rules.txt)     |
-| AdGuard通用白名单       | 允许误拦截的正常域名           | [white.txt](https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/allow.txt)     |
-| DNS 规则         | AdGuard Home/支持 DNS 的工具   | [dnslist.txt](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)   |
-| Hosts 规则       | 系统 Hosts 文件专用            | [hosts.txt](https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)       |
-| Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/qq5460168/666/master/clash.yaml) |
-| Clash Meta 规则  | Clash Meta/Mihomo 配置         | [clash_meta.yaml](https://raw.githubusercontent.com/qq5460168/666/master/clash_meta.yaml) |
-| Quantumult X     | Quantumult X 配置              | [qx.list](https://raw.githubusercontent.com/qq5460168/666/master/qx.list)           |
-| SingBox          | SingBox 配置                   | [singbox.srs](https://raw.githubusercontent.com/qq5460168/666/master/singbox.srs)   |
-| Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.list](https://raw.githubusercontent.com/qq5460168/666/master/Shadowrocket.list) |
-| Invizible Pro    | Invizible Pro 配置             | [invizible.txt](https://raw.githubusercontent.com/qq5460168/666/master/invizible.txt) |
-| AdClose          | AdClose 配置                   | [AdClose.txt](https://raw.githubusercontent.com/qq5460168/666/master/AdClose.txt)   |
+| AdGuard通用黑名单       | 拦截大部分广告域名             | [rules.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/refs/heads/master/rules.txt)     |
+| AdGuard通用白名单       | 允许误拦截的正常域名           | [white.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/refs/heads/master/allow.txt)     |
+| DNS 规则         | AdGuard Home/支持 DNS 的工具   | [dnslist.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/dns.txt)   |
+| Hosts 规则       | 系统 Hosts 文件专用            | [hosts.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/hosts.txt)       |
+| Clash 规则       | Clash Premium 配置             | [Clash.yaml](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/clash.yaml) |
+| Clash Meta 规则  | Clash Meta/Mihomo 配置         | [clash_meta.yaml](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/clash_meta.yaml) |
+| Quantumult X     | Quantumult X 配置              | [qx.list](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/qx.list)           |
+| SingBox          | SingBox 配置                   | [singbox.srs](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/singbox.srs)   |
+| Shadowrocket     | Shadowrocket 配置              | [Shadowrocket.list](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/Shadowrocket.list) |
+| Invizible Pro    | Invizible Pro 配置             | [invizible.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/invizible.txt) |
+| AdClose          | AdClose 配置                   | [AdClose.txt](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/AdClose.txt)   |
 
 
 ## 规则列表（含加速与备用下载）
@@ -75,26 +75,26 @@ AdClose规则数量: 289165
 <summary>点击展开/收起</summary>
 
 - 广告拦截规则  
-  - [规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
-  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/rules.txt)
+  - [规则（GitHub）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/rules.txt)
+  - [规则（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/rules.txt)
 - DNS 拦截规则  
-  - [DNS 规则（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
-  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/dns.txt)
+  - [DNS 规则（GitHub）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/dns.txt)
+  - [DNS 规则（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/dns.txt)
 - 白名单  
-  - [白名单（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
-  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/qq5460168/666/master/allow.txt)
+  - [白名单（GitHub）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/allow.txt)
+  - [白名单（国内加速）](https://ghp.ci/https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/allow.txt)
 - Hosts 规则  
-  - [Hosts（GitHub）](https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
-  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/666/master/hosts.txt)
+  - [Hosts（GitHub）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/hosts.txt)
+  - [Hosts（国内加速）](https://ghproxy.net/https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/hosts.txt)
 - 专用客户端规则  
-  - [Quantumult X（qx.list）](https://raw.githubusercontent.com/qq5460168/666/master/qx.list)
-  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/qq5460168/666/master/Shadowrocket.list)
-  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/qq5460168/666/master/AdClose.txt)
-  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/qq5460168/666/master/singbox.srs)
-  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/qq5460168/666/master/Singbox.json)
-  - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/qq5460168/666/master/invizible.txt)
-  - [Clash（clash.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash.yaml)
-  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/qq5460168/666/master/clash_meta.yaml)
+  - [Quantumult X（qx.list）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/qx.list)
+  - [Shadowrocket（Shadowrocket.list）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/Shadowrocket.list)
+  - [AdClose（AdClose.txt）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/AdClose.txt)
+  - [Singbox SRS（singbox.srs）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/singbox.srs)
+  - [Singbox JSON（Singbox.json）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/Singbox.json)
+  - [Invizible Pro（invizible.txt）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/invizible.txt)
+  - [Clash（clash.yaml）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/clash.yaml)
+  - [Clash Meta（clash_meta.yaml）](https://raw.githubusercontent.com/QSDR2s1d/ad_rules/master/clash_meta.yaml)
 
 </details>
 
