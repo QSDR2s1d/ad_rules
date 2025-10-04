@@ -1,13 +1,13 @@
-[个人合并 2.0]
-! Title: 去广告规则，酷安反馈反馈
-! Homepage: https://github.com/qq5460168/666
+[forked from qq5460168/666]
+! Title: ad_rules
+! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-04 21:35:40（北京时间）
+! Version: 2025-10-04 21:39:31（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 2080
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-04 21:35:39（北京时间）
+# 生成时间: 2025-10-04 21:39:29（北京时间）
 # 总域名数: 2074
 # 项目主页: https://github.com/qq5460168/666
 
