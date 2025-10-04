@@ -2,16 +2,17 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-04 23:54:34（北京时间）
+! Version: 2025-10-05 01:22:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2080
+! Total count: 2089
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-04 23:54:32（北京时间）
-# 总域名数: 2074
+# 生成时间: 2025-10-05 01:22:19（北京时间）
+# 总域名数: 2083
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
+0rz.tw
 177d.wodeshougoncom
 177e.wodenongtian.com
 177f.wodenongtian.com
@@ -319,6 +320,7 @@ bjfesdk.douyucdn.cn
 bkimg.cdn.bcebos.com
 bkssl.bdimg.com
 bkvv.video.qq.com
+blog.udn.com
 bluehost.com
 blueskyxn.com
 bmap6.cn
@@ -338,6 +340,7 @@ browser.pipe.aria.microsoft.com
 bs-origin.pull.yximgs.com
 btrace.qq.com
 bucket-ynote-online-cdn.note.youdao.com
+buff.ly
 buyad.bi-xenon.cn
 bytedanceapi.com
 byteimg.com.queniusy.com
@@ -943,6 +946,7 @@ ip.900cha.com
 ip.cn
 ip.rtbasia.com
 ip.taobao.com
+ip2location.com
 ip6.ssl.msdk.qq.com
 ipassport.ele.me
 ipolyfill-origin.bytedance.com
@@ -1498,6 +1502,7 @@ qqadapt.qpic.cn
 qqvip-web.cdn-go.cn
 qr.cp31.ott.cibntv.net
 quan.suning.com
+quantserve.com
 quapp.shenbabao.com
 quark.cn
 quark.sm.cn
@@ -1540,6 +1545,7 @@ res.qiyukf.net
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 restapi.amap.com
+reurl.cc
 richmedia.video.qq.com
 rocket.chat
 router.ctc.lan
@@ -1554,6 +1560,7 @@ s.img.mix.sina.com.cn
 s.mvconf.f.360.cn
 s.optnx.com
 s.ssl.qhres2.com
+s.yam.com
 s.yimg.com
 s0.2mdn.net
 s0.meituan.net
@@ -1590,6 +1597,7 @@ search.sogoucdn.com
 sec-cdn.static.xiaomi.net
 sec.resource.xiaomi.net
 secureimage.securedataimages.com
+securemetrics.apple.com
 self.events.data.microsoft.com
 sentry.zhuanzhuan.com
 settings-win.data.microsoft.com
@@ -2010,6 +2018,7 @@ www.qidian.com
 www.recaptcha.net
 www.so.com
 www.statcounter.com
+www.taiwanlottery.com.tw
 www.taobao.com
 www.toutiao.com
 www.tudou.com

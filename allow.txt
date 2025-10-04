@@ -2,9 +2,9 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-04 23:54:34（北京时间）
+! Version: 2025-10-05 01:22:21（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3040
+! Total count: 3049
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -153,6 +153,7 @@
 @@||*steamusercontent.com^
 @@||*unrealengine*myqcloud.com*^
 @@||000714.xyz^
+@@||0rz.tw^
 @@||126.net^$important
 @@||163.com^$important
 @@||177d.wodeshougoncom^
@@ -591,6 +592,7 @@
 @@||bkssl.bdimg.com^
 @@||bkvv.video.qq.com^
 @@||blocket.se/annonser^
+@@||blog.udn.com^
 @@||bluehost.com^
 @@||blueskyxn.com^
 @@||bmap6.cn^
@@ -618,6 +620,7 @@
 @@||btrace.qq.com^
 @@||btrace.qq.com^$important
 @@||bucket-ynote-online-cdn.note.youdao.com^
+@@||buff.ly^
 @@||business.apple.com^$important
 @@||buyad.bi-xenon.cn^
 @@||bytedanceapi.com^
@@ -1464,6 +1467,7 @@
 @@||ip.rtbasia.com^
 @@||ip.taobao.com^
 @@||ip.taobao.com^$important
+@@||ip2location.com^
 @@||ip6.ssl.msdk.qq.com^
 @@||ipassport.ele.me^
 @@||ipassport.ele.me^$important
@@ -2219,6 +2223,7 @@
 @@||qr.cp31.ott.cibntv.net^
 @@||quan.suning.com^
 @@||quan.suning.com^$important
+@@||quantserve.com^
 @@||quapp.shenbabao.com^
 @@||quapp.shenbabao.com^$important
 @@||quark-api.uc.cn^$important
@@ -2278,6 +2283,7 @@
 @@||resolver.msg.xiaomi.net^
 @@||resolver.msg.xiaomi.net^$important
 @@||restapi.amap.com^
+@@||reurl.cc^
 @@||reutersmedia.net/resources^
 @@||richmedia.video.qq.com^
 @@||rocket.chat^
@@ -2299,6 +2305,7 @@
 @@||s.mzstatic.com^$important
 @@||s.optnx.com^
 @@||s.ssl.qhres2.com^
+@@||s.yam.com^
 @@||s.yimg.com^
 @@||s0.2mdn.net^
 @@||s0.meituan.net^
@@ -2348,6 +2355,7 @@
 @@||sec.resource.xiaomi.net^$important
 @@||secure.globalsign.com^$important
 @@||secureimage.securedataimages.com^
+@@||securemetrics.apple.com^
 @@||security.microsoft.com^$important
 @@||self.events.data.microsoft.com^
 @@||self.events.data.microsoft.com^$important
@@ -2947,6 +2955,7 @@
 @@||www.so.com^
 @@||www.statcounter.com^
 @@||www.sway.com^$important
+@@||www.taiwanlottery.com.tw^
 @@||www.taobao.com^
 @@||www.toutiao.com^
 @@||www.tudou.com^
