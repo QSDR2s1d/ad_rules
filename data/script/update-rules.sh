@@ -22,27 +22,12 @@ echo "开始下载规则..."
 
 # 定义下载链接数组（规则和白名单分别处理）
 rules=(
-  "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt" #5460
-  "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt" #大萌主
-  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt"  #DD
-  "https://raw.githubusercontent.com/Cats-Team/dns-filter/main/abp.txt" #AdRules DNS Filter
- # "https://raw.hellogithub.com/hosts" #GitHub加速
-  "https://raw.githubusercontent.com/qq5460168/dangchu/main/adhosts.txt" #测试hosts
-  "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt" #白名单
-  "https://raw.githubusercontent.com/qq5460168/Who520/refs/heads/main/Other%20rules/Replenish.txt"#补充
-  "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Blacklist.txt" #mphin
-  "https://gitee.com/zjqz/ad-guard-home-dns/raw/master/black-list" #周木木
-  "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt" #liwenjie119
-  "https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts" #FCM Hosts
-  "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt" #晴雅
-  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
-  "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/refs/heads/master/SMAdHosts" #下一个ID见
-  "https://raw.githubusercontent.com/tongxin0520/AdFilterForAdGuard/refs/heads/main/KR_DNS_Filter.txt" #tongxin0520
-  "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/blacklist.txt" #Zisbusy
-  "" #
-  "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingBlockList.txt" #茯苓
-  "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt" #茯苓白名单
-  "" #
+  "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" #217heidai dns
+  "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt" #217heidai filter
+  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #hyperad filter
+  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt" #hyperad dns
+  "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd-ad
+  "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #那个谁520
 )
 
 allow=(
@@ -56,8 +41,7 @@ allow=(
   "https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/refs/heads/main/Rules/whitelist.txt" #Zisbusy
   "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt" #茯苓
   "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt" #酷安cocieto
-  ""#
-  ""
+  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt" #hyperad allow
 )
 
 # 使用并发curl下载规则和白名单，并通过 iconv 转码后存入文件
