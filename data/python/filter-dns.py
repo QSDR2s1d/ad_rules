@@ -10,7 +10,7 @@ INPUT_FILE = '.././rules.txt'
 EXCLUDE_FILE = '../data/rules/exclude.txt'  # 排除文件路径
 ALLOW_FILE = '../allow.txt'                # 白名单文件在根目录
 TIME_STR = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '（北京时间）'
-HOMEPAGE = "https://github.com/qq5460168/AD886"
+HOMEPAGE = "https://github.com/QSDR2s1d/ad_rules"
 AUTHOR = "酷安@那个谁520"
 
 # 输出文件和规则格式定义
@@ -19,8 +19,8 @@ RULE_FORMATS = [
         "name": "dns",
         "file": ".././dns.txt",
         "header": lambda total: [
-            "[Adblock Plus 2.0]",
-            f"! Title: 酷安广告规则",
+            "[forked from qq5460168/666]",
+            f"! Title: ad_rules",
             f"! Homepage: {HOMEPAGE}",
             f"! by: {AUTHOR}",
             f"! Last Updated: {TIME_STR}",
