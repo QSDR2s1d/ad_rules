@@ -2,6 +2,10 @@
 haokan.baidu.com##.tieba-pause-ad-container
 !屏蔽B站直播P2P上传
 ‖*.chat.bilibili.com
+||*pcdn*.biliapi.net^
+||mcdn.bilivideo.com^
+||mcdn.bilivideo.cn^
+||szbdyd.com^
 #罗盘软件
 ||bid-adx.vlion.cn^
 !Amazon ADS
