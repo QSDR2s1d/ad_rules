@@ -27,7 +27,8 @@ rules=(
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt" #hyperad filter
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt" #hyperad dns
   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd-ad
-  "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #那个谁520
+  "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #那个谁520 dns
+  "http://rssv.cn/adguard/api.php?type=black" #晴雅规则
 )
 
 allow=(
