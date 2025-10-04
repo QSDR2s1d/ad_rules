@@ -29,6 +29,9 @@ rules=(
   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt" #dd-ad
   "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #那个谁520 dns
   "http://rssv.cn/adguard/api.php?type=black" #晴雅规则
+  "https://filter.futa.gg/hosts_abp.txt" #LowTechHost
+  "https://filter.futa.gg/TW165_abp.txt" #TW165台灣反詐騙
+  "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt" #NoCoin Filter List
 )
 
 allow=(
