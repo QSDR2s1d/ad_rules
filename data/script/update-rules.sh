@@ -46,6 +46,7 @@ allow=(
   "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/main/FuLingRules/FuLingAllowList.txt" #茯苓
   "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt" #酷安cocieto
   "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt" #hyperad allow
+  "https://raw.githubusercontent.com/qq5460168/666/refs/heads/master/allow.txt" #那个谁520 allow
 )
 
 # 使用并发curl下载规则和白名单，并通过 iconv 转码后存入文件
