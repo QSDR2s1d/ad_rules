@@ -2,12 +2,12 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-07 21:41:20（北京时间）
+! Version: 2025-10-07 21:48:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 2098
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-07 21:41:12（北京时间）
+# 生成时间: 2025-10-07 21:48:18（北京时间）
 # 总域名数: 2092
 # 项目主页: https://github.com/qq5460168/666
 
