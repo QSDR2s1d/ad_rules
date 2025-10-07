@@ -2,13 +2,13 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-07 09:52:40（北京时间）
+! Version: 2025-10-07 20:53:15（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2094
+! Total count: 2098
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-07 09:52:37（北京时间）
-# 总域名数: 2088
+# 生成时间: 2025-10-07 20:53:13（北京时间）
+# 总域名数: 2092
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -131,6 +131,7 @@ aider.meizu.com
 aihuishou.com
 aikanlive.miguvideo.com
 aikanvod.miguvideo.com
+aisite.wejianzhan.com
 aisubtitle.hdslb.com
 aizhan.com
 ajax.aspnetcdn.com
@@ -1096,6 +1097,7 @@ m.iqiyi.com
 m.jd.com
 m.jd.watbc.top
 m.jd.watbe.top
+m.jf.10010.com
 m.jiaoyimao.com
 m.jingxi.com
 m.jxdown.com
@@ -1173,6 +1175,7 @@ metok.sys.miui.com
 metrics.icloud.com
 metrics.torproject.org
 metrics.vrch.at
+metrics1-drcn.dt.dbankcloud.cn
 mhc-ajax-eu-s2.myhomescreen.tv
 mhc-ajax-eu.myhomescreen.tv
 mhc-xpana-eu-s2.myhomescreen.tv
@@ -1637,6 +1640,7 @@ skydrivesync.policies.live.net
 sl.hpplay.cn
 sm.cn
 smart.360.cn
+smarthome-drcn.dbankcdn.com
 smsks1.cmpassport.com
 smtp.focusgroupresearch.com
 snowflake.qq.com
