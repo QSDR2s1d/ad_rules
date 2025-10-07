@@ -1,0 +1,38 @@
+! TITLE: 雪盖火焰山
+! Description: 重构番茄2.0
+! VERSION: 1.2
+! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+
+||*^$all,app=com.dragon.read,important
+@@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$app=com.dragon.read,important
+@@||p*-novel1-sign.byteimg.com^$app=com.dragon.read,important
+@@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read
+@@||security.snssdk.com^$important,app=com.dragon.read
+@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
+@@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
+@@||reading.snssdk.com^$important,app=com.dragon.read
+@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
+@@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+@@||tnc*-*.zijieapi.com^$important,app=com.dragon.read
+@@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
+@@||api*-normal-sinfonline*.fqnovel.com^$important,app=com.dragon.read
+@@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
+@@||*-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+@@||*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
+
+||*^$all,app=com.dragon.read.oversea.gp,important
+@@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$app=com.dragon.read.oversea.gp,important
+@@||p*-novel1-sign.byteimg.com^$app=com.dragon.read.oversea.gp,important
+@@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read.oversea.gp
+@@||security.snssdk.com^$important,app=com.dragon.read.oversea.gp
+@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read.oversea.gp
+@@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read.oversea.gp
+@@||reading.snssdk.com^$important,app=com.dragon.read.oversea.gp
+@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read.oversea.gp
+@@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read.oversea.gp
+@@||tnc*-*.zijieapi.com^$important,app=com.dragon.read.oversea.gp
+@@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read.oversea.gp
+@@||api*-normal-sinfonline*.fqnovel.com^$important,app=com.dragon.read.oversea.gp
+@@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read.oversea.gp
+@@||*-novelapp.fqnovelvod.com^$important,app=com.dragon.read.oversea.gp
+@@||*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read.oversea.gp
