@@ -4,6 +4,7 @@
 ! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
 
 ||*^$all,app=com.dragon.read,important
+@@||v*-reading-video.fqnovelvod.com^$important,app=com.dragon.read
 @@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$app=com.dragon.read,important
 @@||p*-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read
@@ -21,6 +22,7 @@
 @@||*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
 
 ||*^$all,app=com.dragon.read.oversea.gp,important
+@@||v*-reading-video.fqnovelvod.com^$important,app=com.dragon.read.oversea.gp
 @@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$app=com.dragon.read.oversea.gp,important
 @@||p*-novel1-sign.byteimg.com^$app=com.dragon.read.oversea.gp,important
 @@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read.oversea.gp
