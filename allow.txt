@@ -2,9 +2,9 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-07 20:53:15（北京时间）
+! Version: 2025-10-07 21:41:20（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3142
+! Total count: 3139
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -314,7 +314,6 @@
 @@||aikanlive.miguvideo.com^
 @@||aikanvod.miguvideo.com^
 @@||aisite.wejianzhan.com^
-@@||aisite.wejianzhan.com^$important
 @@||aisubtitle.hdslb.com^
 @@||aizhan.com^
 @@||ajax.aspnetcdn.com^
@@ -1821,7 +1820,6 @@
 @@||metrics.torproject.org^
 @@||metrics.vrch.at^
 @@||metrics1-drcn.dt.dbankcloud.cn^
-@@||metrics1-drcn.dt.dbankcloud.cn^$important
 @@||mhc-ajax-eu-s2.myhomescreen.tv^
 @@||mhc-ajax-eu.myhomescreen.tv^
 @@||mhc-xpana-eu-s2.myhomescreen.tv^
@@ -2488,7 +2486,6 @@
 @@||sm.cn^$important
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
-@@||smarthome-drcn.dbankcdn.com^$important
 @@||smoot.apple.com^$important
 @@||smsks1.cmpassport.com^
 @@||smtp.focusgroupresearch.com^
