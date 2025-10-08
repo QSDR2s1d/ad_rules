@@ -1,3 +1,5 @@
+!今日校园签到
+@@||counselor-front.campusphere.net^
 !网易
 @@||dl.reg.163.com^
 @@||webzjcaptcha.reg.163.com^
