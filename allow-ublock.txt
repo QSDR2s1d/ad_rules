@@ -2,13 +2,13 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-08 20:52:59（北京时间）
+! Version: 2025-10-09 09:53:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2099
+! Total count: 2100
 # 纯域名白名单
 # 来源: ../allow.txt
-# 生成时间: 2025-10-08 20:52:56（北京时间）
-# 总域名数: 2093
+# 生成时间: 2025-10-09 09:53:38（北京时间）
+# 总域名数: 2094
 # 项目主页: https://github.com/qq5460168/666
 
 000714.xyz
@@ -1486,6 +1486,7 @@ push.oray.com
 push.yximgs.com
 push1.91cloud.net
 puui.qpic.cn
+puzzles-games-api.gp-prod.conde.digital
 pv.sohu.com
 pvip.funshion.com
 px.a8.net

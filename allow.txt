@@ -2,9 +2,9 @@
 ! Title: ad_rules
 ! Homepage: https://github.com/QSDR2s1d/ad_rules
 ! Expires: 12 Hours
-! Version: 2025-10-08 20:52:59（北京时间）
+! Version: 2025-10-09 09:53:40（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3141
+! Total count: 3142
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
 @@||*-www.sway-cdn.com^
@@ -2264,6 +2264,7 @@
 @@||push1.91cloud.net^
 @@||puui.qpic.cn^
 @@||puui.qpic.cn^$important
+@@||puzzles-games-api.gp-prod.conde.digital^
 @@||pv.sohu.com^
 @@||pvip.funshion.com^
 @@||px.a8.net^
