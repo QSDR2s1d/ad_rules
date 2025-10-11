@@ -34,6 +34,8 @@ rules=(
   "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt" #NoCoin Filter List
   "https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/mylist.txt" #hululu1068
   "https://www.i-dont-care-about-cookies.eu/abp/" #I don't care about cookies
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt" #Cats-Team rules
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt" #Cats-Team dns
 )
 
 allow=(
